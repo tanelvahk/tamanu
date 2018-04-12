@@ -1,0 +1,610 @@
+# Translation of Themes - Flat Bootstrap in Estonian
+# This file is distributed under the same license as the Themes - Flat Bootstrap package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-29 16:10:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: et_EE\n"
+"Project-Id-Version: Themes - Flat Bootstrap\n"
+
+#. Description of the plugin/theme
+msgid "Flat Bootstrap by XtremelySocial is a modern, fully responsive, \"flat\" style theme with a nice color palette, big full-width images, and full-width colored sections. It automatically adapts for desktops, tablets, and phones. It is based on the WordPress standard starter theme (_S) and the Twitter Bootstrap CSS framework. Features include a mobile navigation bar, multiple columns (grid), buttons, icons, labels, badges, tabbed content areas, collapsible content areas, progress bars, alert boxes, carousels (sliders) and much, much more. This is a theme for both users and theme developers with lots of features but without the bloat. For a live demo go to http://xtremelysocial.com/wordpress/flat/. PLEASE NOTE: Version 1.9 has had a major \"spring cleaning\" of the functions, templates, and CSS. Please be sure to test it out on your site."
+msgstr "XtremelySociali Flat Bootstrap on kaasaegne ja täielikult kohanduv tasapinnaline (flat) teema koos kena värvivaliku ja kogu lehe ulatuses laiuvate piltide ning värviliste sektsioonidega. See kohandub automaatselt laua- ja tahvelarvutite ning nutitelefonide ekraanidega. Flat Bootstrap põhineb Wordpressi Underscore teemal (_S) ja Twitteri Bootstrapi raamistikul. Sellega käivad kaasas navigeerimisriba nutiseadmetele, sisu paigutamine veergude kaupa (grid), nupud, ikoonid, märgendid, badge'id, vahekaardid (tabs), kokkukäivad sisupaneelid, edenemisribad, hoiatuskastid, \"karussellid\"-slaidinäitajad ja palju-palju muud. Flat Bootstrap on teema ühteaegu nii lõppkasutajatele kui arendajatele, mis sisaldab hulgaliselt kasulikke omadusi, jäädes sellest hoolimata kergekaaluliseks. Demo saab vaadata http://xtremelysocial.com/wordpress/flat/. PANGE TÄHELE: Versioon 1.9 läbis põhjaliku \"kevadpuhastuse\" nii funktsioonide, mallide kui CSS poole pealt. Testige seda kindlasti eelnevalt oma saidil."
+
+#. Theme Name of the plugin/theme
+msgid "Flat Bootstrap"
+msgstr "Flat Bootstrap"
+
+#: inc/jetpack.php:93
+msgid "Tag"
+msgstr "Silt"
+
+#: inc/jetpack.php:91
+msgid "Category"
+msgstr "Rubriik"
+
+#: functions.php:221
+msgid "Optional section that displays only on the home page. It appears whether the home page is static or the blog. This is a single column area that spans the full width of the page."
+msgstr "Valikuline sektsioon, mida kuvatakse ainult avalehel, kui see on staatiline leht või blogi. Haarab ühte, kogu lehe ulatuses laiuvat veergu."
+
+#: functions.php:219
+msgid "Home Page"
+msgstr "Koduleht"
+
+#: footer.php:72
+msgid "<span class=\"credits-copyright\">&copy; %1$s %2$s. </span><span class=\"credits-theme\">Theme by %3$s.</span>"
+msgstr "<span class=\"credits-copyright\">&copy; %1$s %2$s. </span><span class=\"credits-theme\">%3$si teema.</span>"
+
+#. Template Name of the plugin/theme
+msgid "Page - Site Index"
+msgstr "Leht - saidi indeks"
+
+#. Template Name of the plugin/theme
+msgid "Page - No Sidebar"
+msgstr "Leht - ilma külgribata"
+
+#. Template Name of the plugin/theme
+msgid "Page - No Sidebar or Content Header"
+msgstr "Leht - ilma külgriba ja sisu päiseta"
+
+#. Template Name of the plugin/theme
+msgid "Page - Left Sidebar"
+msgstr "Leht - vasaku külgribaga"
+
+#. Template Name of the plugin/theme
+msgid "Page - Full Width with Sub Pages"
+msgstr "Leht - kogu akna laiuses koos alamlehtedega"
+
+#. Template Name of the plugin/theme
+msgid "Page - Full Width with Recent Posts"
+msgstr "Leht - kogu akna laiuses ja viimaste postitustega"
+
+#. Template Name of the plugin/theme
+msgid "Page - Full Width"
+msgstr "Leht - kogu akna laiuses"
+
+#. Template Name of the plugin/theme
+msgid "Page - Full Width No Content Header"
+msgstr "Leht - kogu akna laiuses, ilma sisu päiseta"
+
+#. Template Name of the plugin/theme
+msgid "Page - Full Width Recent Posts No Header"
+msgstr "Leht - kogu akna laiuses, viimaste postitustega ja ilma päiseta"
+
+#: sidebar-pagebottom.php:40
+msgid "Call To Action Button"
+msgstr "Nupp üleskutsega mingile tegevusele"
+
+#: sidebar-pagebottom.php:39
+msgid "This is just an example shown for the theme preview. You can add text widgets here to put whatever you'd like."
+msgstr "See on kõigest näide. Tekstividinatega saate selle kirja muuta milleks tahes."
+
+#: sidebar-pagebottom.php:35
+msgid "THIS IS A CALL TO ACTION AREA"
+msgstr "SEE ON VÄLI ÜLESKUTSEGA MINGILE TEGEVUSELE"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Otsi"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Otsi &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Otsi:"
+
+#: no-results.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Tundub, et me ei leia, mida otsite. Võibolla otsingumootor aitab."
+
+#: no-results.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Kahjuks ei leidnud vastet otsitavale. Proovi uuesti mõne muu märksõnaga"
+
+#: no-results.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Valmis esimese postituse avaldamiseks? <a href=\"%1$s\">Alusta siit</a>."
+
+#: no-results.php:15
+msgid "Nothing Found"
+msgstr "Midagi ei leitud"
+
+#: inc/theme-functions.php:245
+msgid "Display post full-width (no sidebar)?"
+msgstr "Näidata postitust kogu akna laiuses (ilma külgribata)?"
+
+#: inc/theme-functions.php:232
+msgid "Subtitle (displays under the title in the content header)"
+msgstr "Alapealkiri (näidatakse pealkirja all sisu päises)"
+
+#: inc/theme-functions.php:207
+msgid "Additional Post / Page Options"
+msgstr "Täiendavad postituste / lehtede valikud"
+
+#: inc/template-tags.php:99
+msgid "Your comment is awaiting moderation."
+msgstr "Sinu kommentaar ootab modereerimist."
+
+#: inc/template-tags.php:95
+msgid "Edit"
+msgstr "Muuda"
+
+#: inc/template-tags.php:92
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s kell %2$s"
+
+#: inc/template-tags.php:86
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">kirjutab:</span>"
+
+#: inc/template-tags.php:75
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:55
+msgid "Read More"
+msgstr "Loe veel"
+
+#: inc/class-tgm-plugin-activation.php:2070
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Paigaldan pistikprogrammi  %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr "Kõik paigaldused on valmis."
+
+#: inc/class-tgm-plugin-activation.php:2068
+msgid "%1$s installed successfully."
+msgstr "%1$s paigaldamine õnnestus."
+
+#: inc/class-tgm-plugin-activation.php:2067
+msgid "The installation of %1$s failed."
+msgstr "%1$s paigaldamine ebaõnnestus."
+
+#: inc/class-tgm-plugin-activation.php:2066
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s paigaldamisel ilmnes järgmine viga: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:2065
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Paigaldus algas. See võib võtta pisut aega, nii et varuge kannatust."
+
+#: inc/class-tgm-plugin-activation.php:2061
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Paigaldan ja aktiveerin pistikprogrammi %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr "Kõik paigaldamised ja aktiveerimised on valmis."
+
+#: inc/class-tgm-plugin-activation.php:2059
+#: inc/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr "Üldvaade"
+
+#: inc/class-tgm-plugin-activation.php:2059
+#: inc/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr "Täpsem vaade"
+
+#: inc/class-tgm-plugin-activation.php:2059
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s paigaldamine ja aktiveerimine õnnestus."
+
+#: inc/class-tgm-plugin-activation.php:2058
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Alustan paigaldamist ja aktiveerimist. See võib võtta pisut aega, nii et varuge kannatust."
+
+#: inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr "Pistikprogrammi aktiveerimine ebaõnnestus."
+
+#: inc/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr "Pistikprogramm edukalt paigaldatud."
+
+#: inc/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr "Pistikprogrammi paigaldamine ebaõnnestus."
+
+#: inc/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr "Paigaldan pistikprogrammi&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr "Lahtipakkimine&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1929
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Laen alla paigalduspaketti: <span class=\"code\">%s</span>&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr "Paigalduspakett pole saadaval."
+
+#: inc/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr "Postituse olek"
+
+#: inc/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr "Tüüp"
+
+#: inc/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr "Allikas"
+
+#: inc/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Pistikprogramm"
+
+#: inc/class-tgm-plugin-activation.php:1361
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Ükski pistikprogramm ei oota paigaldamist ega aktiveerimist. <a href=\"%1$s\" title=\"Tagasi töölauale\">Tagasi töölauale</a>"
+
+#: inc/class-tgm-plugin-activation.php:1312
+#: inc/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr "Lülita sisse"
+
+#: inc/class-tgm-plugin-activation.php:1290
+#: inc/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr "Paigalda"
+
+#: inc/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr "Paigaldatud, kuid pole aktiveeritud"
+
+#: inc/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr "Pole paigaldatud"
+
+#: inc/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr "Soovitatav"
+
+#: inc/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr "Nõutav"
+
+#: inc/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr "WordPressi hoidla (Repository)"
+
+#: inc/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr "Eelpakendatud"
+
+#: inc/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr "Isiklik hoidla (Repository)"
+
+#: inc/class-tgm-plugin-activation.php:534
+#: inc/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr "Tagasi töölauale"
+
+#: inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Jäta teade tähelepanuta"
+
+#: inc/class-tgm-plugin-activation.php:179
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Kõik pistikprogrammid on edukalt paigaldatud ja aktiveeritud. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:178
+#: inc/class-tgm-plugin-activation.php:1636
+msgid "The following plugin was activated successfully:"
+msgstr "Järgneva pistikprogrammi aktiveerimine õnnestus:"
+
+#: inc/class-tgm-plugin-activation.php:177
+#: inc/class-tgm-plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr "Pistikprogramm aktiveeriti edukalt."
+
+#: inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Tagasi töölauale"
+
+#: inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Tagasi nõutud pistikprogrammide paigaldajasse"
+
+#: inc/class-tgm-plugin-activation.php:174
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Alusta pistikprogrammi aktiveerimist"
+msgstr[1] "Alusta pistikprogrammide aktiveerimist"
+
+#: inc/class-tgm-plugin-activation.php:173
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Alusta pistikprogrammi paigaldamist"
+msgstr[1] "Alusta pistikprogrammide paigaldamist"
+
+#: inc/class-tgm-plugin-activation.php:172
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Vabandame, teil pole õigust pistikprogrammi %s paigaldada. Abisaamiseks pöörduge saidi haldaja poole."
+msgstr[1] "Vabandame, teil pole õigust pistikprogramme %s paigaldada. Abisaamiseks pöörduge saidi haldaja poole."
+
+#: inc/class-tgm-plugin-activation.php:171
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Pistikprogramm %1$s vajab värskendamist kõige uuema versioonini, et tagada parim võimalik ühilduvus teemaga."
+msgstr[1] "Pistikprogrammid %1$s vajavad värskendamist kõige uuemate versioonideni, et tagada parim võimalik ühilduvus teemaga."
+
+#: inc/class-tgm-plugin-activation.php:170
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Vabandame, teil pole õigust pistikprogrammi %s aktiveerida. Abisaamiseks pöörduge saidi haldaja poole."
+msgstr[1] "Vabandame, teil pole õigust pistikprogramme %s aktiveerida. Abisaamiseks pöörduge saidi haldaja poole."
+
+#: inc/class-tgm-plugin-activation.php:169
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Soovitatav pistikprogramm %1$s pole aktiveeritud."
+msgstr[1] "Soovitatavad pistikprogrammid %1$s pole aktiveeritud."
+
+#: inc/class-tgm-plugin-activation.php:168
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Nõutav pistikprogramm %1$s pole aktiveeritud."
+msgstr[1] "Nõutavad pistikprogrammid %1$s pole aktiveeritud."
+
+#: inc/class-tgm-plugin-activation.php:167
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Vabandame, teil pole õigust pistikprogrammi %s paigaldada. Abisaamiseks pöörduge saidi haldaja poole."
+msgstr[1] "Vabandame, teil pole õigust pistikprogramme %s paigaldada. Abisaamiseks pöörduge saidi haldaja poole."
+
+#: inc/class-tgm-plugin-activation.php:166
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Teema soovitab pistikprogrammi %1$s."
+msgstr[1] "Teema soovitab pistikprogramme %1$s."
+
+#: inc/class-tgm-plugin-activation.php:165
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Teema vajab pistikprogrammi %1$s."
+msgstr[1] "Teema vajab pistikprogramme %1$s."
+
+#: inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Midagi läks nihu."
+
+#: inc/class-tgm-plugin-activation.php:163
+msgid "Installing Plugin: %s"
+msgstr "Paigaldan pistikprogrammi %s"
+
+#: inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Paigalda pistikprogramme"
+
+#: inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Paigalda nõutavad pistikprogrammid"
+
+#: image.php:41
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Järgmine <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:40
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> eelmine"
+
+#: image.php:25
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr "Avaldatud <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> kell <a href=\"%3$s\">%4$s &times; %5$s</a> siin: <a href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: header.php:81
+msgid "Skip to content"
+msgstr "Liigu sisu juurde"
+
+#: header.php:80
+msgid "Primary Menu"
+msgstr "Peamenüü"
+
+#: functions.php:210
+msgid "Optional section before the footer. This is a single column area that spans the full width of the page."
+msgstr "Valikuline sektsioon enne jalust. Üks kogu akna laiune veerg."
+
+#: functions.php:208
+msgid "Page Bottom"
+msgstr "Jalusesse"
+
+#: functions.php:199
+msgid "Optional section after the header. This is a single column area that spans the full width of the page."
+msgstr "Valikuline sektsioon päise järel. Üks kogu akna laiune veerg."
+
+#: functions.php:197
+msgid "Page Top"
+msgstr "Päisesse"
+
+#: functions.php:188
+msgid "Optional site footer widgets. Add 1-4 widgets here to display in columns."
+msgstr "Valikulised vidinad jalusesse. Lisa 1-4 vidinat veergudes näitamiseks."
+
+#: functions.php:186
+msgid "Footer"
+msgstr "Jalus"
+
+#: functions.php:177
+msgid "Main sidebar (right or left)"
+msgstr "Peamine külgriba (paremal või vasakul)"
+
+#: functions.php:175
+msgid "Sidebar"
+msgstr "Küljepaan"
+
+#: functions.php:120
+msgid "Header Menu"
+msgstr "Päise menüü"
+
+#: footer.php:89 functions.php:121
+msgid "Footer Menu"
+msgstr "Jaluse menüü"
+
+#: footer.php:61 footer.php:63
+msgid "Home"
+msgstr "Esileht"
+
+#: footer.php:57
+msgid "Top"
+msgstr "Üles"
+
+#: footer.php:47
+msgid "Back to top of page"
+msgstr "Tagasi päisesse"
+
+#: flat-bootstrap-child/functions.php:110
+msgid "&copy; %1$s %2$s"
+msgstr "&copy; %1$s %2$s"
+
+#: content.php:44
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Jätka lugemist <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-siteindex.php:102
+msgid "Portfolio Tags"
+msgstr "Portfoolio sildid"
+
+#: content-siteindex.php:86
+msgid "Portfolio Types"
+msgstr "Portfoolio tüüp"
+
+#: content-siteindex.php:70
+msgid "Tags"
+msgstr "Sildid"
+
+#: content-siteindex.php:50 sidebar-left.php:30 sidebar.php:30
+msgid "Categories"
+msgstr "Rubriigid"
+
+#: content-siteindex.php:16 sidebar-left.php:23 sidebar.php:23
+msgid "Site Content"
+msgstr "Saidi sisu"
+
+#: content-post-nav.php:17
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: content-post-nav.php:16
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: content-post-nav.php:13
+msgid "Post navigation"
+msgstr "Postituste töölaud"
+
+#: content-post-header.php:39
+msgid "% Comments"
+msgstr "% kommentaari"
+
+#: content-post-header.php:39
+msgid "1 Comment</span>"
+msgstr "1 kommentaar</span>"
+
+#: content-post-header.php:39
+msgid "Leave a comment"
+msgstr "Lisa kommentaar"
+
+#: content-page-nav.php:50
+msgid "Page navigation"
+msgstr "Lehel liikumine"
+
+#: content-page-nav.php:21
+msgid "&larr; Previous page"
+msgstr "&larr; Eelmine leht"
+
+#: content-page-nav.php:20
+msgid "Next page &rarr;"
+msgstr "Järgmine leht &rarr;"
+
+#: content-page-fullwidth.php:22 content-page.php:19 content-post-footer.php:26
+#: image.php:66 inc/template-tags.php:76 page-fullpostsnoheader.php:42
+#: page-fullwithposts.php:41 page-fullwithsubpages.php:93 page-siteindex.php:41
+msgid "<span class=\"glyphicon glyphicon-edit\"></span> Edit"
+msgstr "<span class=\"glyphicon glyphicon-edit\"></span> Muuda"
+
+#: content-index-nav.php:15
+msgid "paging-navigation"
+msgstr "lehtede vahel liikumine"
+
+#: content-header.php:102
+msgid "Search Results for: %s"
+msgstr "Otsitulemused: %s"
+
+#: content-siteindex.php:35 inc/jetpack.php:72
+msgid "Testimonials"
+msgstr "Iseloomustused"
+
+#: content-siteindex.php:26 inc/jetpack.php:64
+msgid "Portfolio"
+msgstr "Portfoolio"
+
+#: content-header.php:81
+msgid "Blog"
+msgstr "Ajaveeb"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "Kommenteerimine on suletud."
+
+#: comments.php:41 comments.php:65
+msgid "Older Comments &rarr;"
+msgstr "Vanemad kommentaarid &rarr;"
+
+#: comments.php:40 comments.php:64
+msgid "&larr; Newer Comments"
+msgstr "&larr; Uuemad kommentaarid"
+
+#: comments.php:38 comments.php:62
+msgid "Comment navigation"
+msgstr "Kommentaaride töölaud"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "Üks kommentaar sissekande &ldquo;%2$s&rdquo; kohta"
+msgstr[1] "%1$s  kommentaari sissekande &ldquo;%2$s&rdquo; kohta"
+
+#: 404.php:29
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "Siit ei leitud vististi midagi. Vahest proovite otsingut või mõnda alltoodud linkidest?"
+
+#: 404.php:17
+msgid "Or as techies would say, its a \"404 Error\""
+msgstr "Nagu ütleksid meie patsiga poisid: \"Viga 404\""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oihh! Seda lehte ei õnnestunud leida."
+
+#. Author URI of the plugin/theme
+msgid "http://xtremelysocial.com"
+msgstr "http://xtremelysocial.com"
+
+#. Author of the plugin/theme
+msgid "XtremelySocial"
+msgstr "XtremelySocial"
+
+#. Theme URI of the plugin/theme
+msgid "http://xtremelysocial.com/wordpress/flat/"
+msgstr "http://xtremelysocial.com/wordpress/flat/"

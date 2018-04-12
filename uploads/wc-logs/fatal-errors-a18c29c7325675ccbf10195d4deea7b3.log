@@ -1,0 +1,20 @@
+2017-10-24T19:01:56+00:00 CRITICAL Uncaught Error: Call to undefined function hestia_about_section() in /data02/virt59051/domeenid/www.respeye.ee/tamanu/wp-content/themes/hestia/front-page.php:26
+Stack trace:
+#0 /data02/virt59051/domeenid/www.respeye.ee/tamanu/wp-includes/template-loader.php(74): include()
+#1 /data02/virt59051/domeenid/www.respeye.ee/tamanu/wp-blog-header.php(19): require_once('/data02/virt590...')
+#2 /data02/virt59051/domeenid/www.respeye.ee/tamanu/index.php(17): require('/data02/virt590...')
+#3 {main}
+  thrown
+
+2017-10-24T19:02:41+00:00 CRITICAL Uncaught Error: Call to undefined function hestia_features_section() in /data02/virt59051/domeenid/www.respeye.ee/tamanu/wp-content/themes/hestia/front-page.php:26
+Stack trace:
+#0 /data02/virt59051/domeenid/www.respeye.ee/tamanu/wp-includes/template-loader.php(74): include()
+#1 /data02/virt59051/domeenid/www.respeye.ee/tamanu/wp-blog-header.php(19): require_once('/data02/virt590...')
+#2 /data02/virt59051/domeenid/www.respeye.ee/tamanu/index.php(17): require('/data02/virt590...')
+#3 {main}
+  thrown
+
+2017-10-27T17:45:50+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2017-10-27T17:46:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
