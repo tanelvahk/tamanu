@@ -1,0 +1,10 @@
+'*.pmc' 
+uploads
+ai1wm-backups
+languages
+mu-plugins
+upgrade
+themes/flat-bootstrap/*
+themes/twentysixteen/*
+themes/twentyseventeen/*
+themes/twentyfifteen/*
